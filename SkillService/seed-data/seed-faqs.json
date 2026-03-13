@@ -1,0 +1,58 @@
+[
+  {
+    "id": "faq-001",
+    "category": "refund",
+    "pattern": "退款|退货;期限|多久|几天|时间",
+    "answer": "退款申请需在签收后 7 天内提交。",
+    "priority": 10,
+    "isActive": true
+  },
+  {
+    "id": "faq-002",
+    "category": "invoice",
+    "pattern": "发票;邮箱|发送|哪里",
+    "answer": "发票统一发送到 finance@example.com。",
+    "priority": 10,
+    "isActive": true
+  },
+  {
+    "id": "faq-003",
+    "category": "support",
+    "pattern": "客服|人工;时间|几点|上班",
+    "answer": "人工客服服务时间为工作日 09:00-18:00。",
+    "priority": 10,
+    "isActive": true
+  },
+  {
+    "id": "faq-004",
+    "category": "refund",
+    "pattern": "退款;流程|步骤|怎么|如何",
+    "answer": "退款流程：登录账户 → 订单详情 → 申请退款 → 填写原因 → 提交。审核通过后 3-5 个工作日退回。",
+    "priority": 8,
+    "isActive": true
+  },
+  {
+    "id": "faq-005",
+    "category": "shipping",
+    "pattern": "快递|物流|配送;多久|几天|时间",
+    "answer": "标准配送 3-5 个工作日，加急配送 1-2 个工作日。",
+    "priority": 10,
+    "isActive": true
+  },
+  {
+    "id": "faq-006",
+    "category": "payment",
+    "pattern": "支付|付款;方式|方法|支持",
+    "answer": "支持支付宝、微信支付、银行卡（Visa / Mastercard / 银联）等多种支付方式。",
+    "priority": 10,
+    "isActive": true
+  },
+  {
+    "id": "faq-007",
+    "category": "account",
+    "pattern": "密码;忘记|找回|重置",
+    "answer": "请点击登录页面的【忘记密码】，通过注册邮箱或手机号完成身份验证后重置密码。",
+    "priority": 10,
+    "isActive": true
+  }
+]
