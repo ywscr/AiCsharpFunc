@@ -1,0 +1,22 @@
+# .NET build artifacts
+SkillService/bin/
+SkillService/obj/
+
+# Node.js dependencies
+ai-gateway/node_modules/
+
+# Environment files (contain secrets)
+.env
+ai-gateway/.env
+
+# macOS
+.DS_Store
+
+# Visual Studio / Rider
+.vs/
+*.user
+*.suo
+.idea/
+
+# Logs
+*.log
