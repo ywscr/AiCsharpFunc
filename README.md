@@ -1,0 +1,2 @@
+# AiCsharpFunc
+AI + C# 
