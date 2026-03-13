@@ -15,7 +15,7 @@ import { callFaqMatch } from './call-skill.js';
 
 const openai = new OpenAI({ apiKey: process.env.OPENAI_API_KEY });
 
-/** @type {import('openai/resources/responses/responses').FunctionTool} */
+/** Tool definition for the FAQ match function */
 const FAQ_TOOL = {
   type: 'function',
   name: 'faq_match',
