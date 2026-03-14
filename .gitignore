@@ -23,3 +23,20 @@ project.assets.json
 
 ## Generated docs (optional: remove this if you want to commit generated SKILL.md)
 # **/SKILL.md
+# Build artifacts
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+
+# Rider
+.idea/
+
+# NuGet
+*.nupkg
+packages/
+
+# Test results
+TestResults/

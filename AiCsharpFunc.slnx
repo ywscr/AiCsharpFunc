@@ -6,5 +6,10 @@
   <Folder Name="/src/" />
   <Folder Name="/src/AiSkillFramework/">
     <Project Path="src/AiSkillFramework/AiSkillFramework/AiSkillFramework.csproj" />
+  <Folder Name="/src/">
+    <Project Path="src/AiCsharpFunc/AiCsharpFunc.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/AiCsharpFunc.Tests/AiCsharpFunc.Tests.csproj" />
   </Folder>
 </Solution>
