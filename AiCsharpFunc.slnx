@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/samples/" />
+  <Folder Name="/samples/TushareSkillSample/">
+    <Project Path="samples/TushareSkillSample/TushareSkillSample/TushareSkillSample.csproj" />
+  </Folder>
+  <Folder Name="/src/" />
+  <Folder Name="/src/AiSkillFramework/">
+    <Project Path="src/AiSkillFramework/AiSkillFramework/AiSkillFramework.csproj" />
+  </Folder>
+</Solution>

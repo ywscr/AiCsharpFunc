@@ -1,0 +1,25 @@
+## .NET build artifacts
+bin/
+obj/
+*.user
+*.suo
+*.userprefs
+*.vs/
+.vs/
+
+## NuGet
+*.nupkg
+packages/
+project.lock.json
+project.assets.json
+
+## Visual Studio
+.vscode/
+*.swp
+*~
+
+## macOS
+.DS_Store
+
+## Generated docs (optional: remove this if you want to commit generated SKILL.md)
+# **/SKILL.md
